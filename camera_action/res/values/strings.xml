@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">camera_action</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_camera_shot_main">CameraShotMainActivity</string>
+
+</resources>
